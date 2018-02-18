@@ -11,7 +11,7 @@ My goal is to become a Linux systems analyst, so during part of the time I spent
 
 Lastly, I've never been able to get into video games. SNES was the most complex console I ever had fun with. Beyond that, there was just way too much going on. I'm a sucker for rabbit holes, and I found that the myriad options available for customization, skills, items, etc. made it impossible for me to actually _play_ newer games! That being said, I'm really interested in this surging 2D and story gaming movement. An old friend, [Dr. Brooke Wonders](http://girlwonders.wordpress.com), just completed a story game called [Heloise & Wulf](https://paracatgames.itch.io/anxiety), which I've enjoyed and I'm very curious about the process and wondering if I could finally become a gamer this way! Maybe even write one! I'll probably write about other experiences I have with these games at some point.
 
-###Today's Resources
+### Today's Resources
 * ["GitHub for Beginners"](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) by Lauren Orsini
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
 * [Jekyll Docs](https://jekyllrb.com/docs/home/)
