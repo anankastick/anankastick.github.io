@@ -2,7 +2,7 @@
 layout: post
 title:  anticlimax
 date:   2018-02-18
-categories: blog linux 2D-gaming jekyll
+categories: [blog, linux, 2D gaming, jekyll]
 ---
 
 After an embarrassing number of hours of work, I've finally managed to get this little blog up and running. I have never really used GitHub before, and I'm a total Linux novice--not even a novice, more like a wannabe--so it was a challenge. Right now, I'm using [Notepad ++](https://notepad-plus-plus.org/) and [Git](http://git-scm.com/downloads) to build this site. It's a Jekyll-based blog. It was really difficult to find tutorials that weren't so technical or so fast that I couldn't follow them. A lot of them seemed to assume quite a bit of prior knowledge, so I'm grateful for the few I found. I'll list them at the bottom of the post.
