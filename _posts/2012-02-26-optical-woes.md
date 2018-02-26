@@ -12,6 +12,7 @@ I started frantically googling for solutions to the problem. I tried reboots, re
 ~~~
 drutil eject tray
 ~~~
+
 The optical drive definitely made noises. It was awake, but nothing came out and nothing went in. It was like trying to get a discerning toddler to eat brussels sprouts. Finally, I came across a far less elegant solution. Since the disc went about halfway in and then stopped, it seemed there was a rotor or something blocking it. I jimmied it down with my Costco card and slid the CD in with it. Bam. Functional optical drive.
 
 So from now on Jill has to stay on a hard, flat surface to keep the drive working correctly. This seems like a really simple, dumb problem, probably, but I was very proud of myself for solving it. I persevered, didn't panic and executed some pretty effective searches. Those are important skills, so I want to make sure I recognize them in myself! I've plenty of time to feel inept and discouraged. For right now, I got a problem solved! And now I have a copy of Dead Can Dance's _Toward the Within_ in my ancient iTunes account. (At least until I upgrade and iTunes is no more!)
