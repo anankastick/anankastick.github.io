@@ -12,3 +12,10 @@ I also spent some time reading about Unix, since I hardly knew anything about it
 I know that part of the reason for this pointless esotericism is elitism and the cliched geek attitude that if you have to ask, you'll never know. That's really unfortunate, especially in movements that seem so focused on freedom of information. It's like saying that free information and, therefore, agency, depends on an ability to mine it. That's just gatekeeping. I think I would like to be involved with a project that worked to dismantle these barriers by creating free, _accessible_ information! 
 
 Snow Leopard should get here tomorrow, so installing it will be the big project for the day. Hopefully, by this time tomorrow I'll have an upgraded OS and a working virtual box to really dive into practicing what I'm learning about Linux.
+
+### Today's Resources
+* [Linux Documentation Project](http://www.tldp.org/)
+* [Linux or GNU Linux?](http://linux.topology.org/lingl.html)
+* [GNU Project Perspective](http://www.gnu.org/gnu/linux-and-gnu.html)
+* [Free Software Foundation] (http://fsf.org)
+* [Wikipedia entry on Unix](https://en.wikipedia.org/wiki/Unix)
