@@ -17,5 +17,5 @@ Snow Leopard should get here tomorrow, so installing it will be the big project 
 * [Linux Documentation Project](http://www.tldp.org/)
 * [Linux or GNU Linux?](http://linux.topology.org/lingl.html)
 * [GNU Project Perspective](http://www.gnu.org/gnu/linux-and-gnu.html)
-* [Free Software Foundation] (http://fsf.org)
+* [Free Software Foundation](http://fsf.org)
 * [Wikipedia entry on Unix](https://en.wikipedia.org/wiki/Unix)
